@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="from">From</string>
+    <string name="converted_from">From</string>
+    <string name="enter_amount">Enter Amount</string>
+    <string name="converted_to">To</string>
+    <string name="todo">TODO</string>
+
+    <string-array name="currencies">
+        <item>EUR</item>
+
+        <item>GBP</item>
+        <item>USD</item>
+        <item>DKK</item>
+
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+
+    </string-array>
+
+    <string-array name="currencies2">
+        <item>USD</item>
+
+        <item>DKK</item>
+        <item>EUR</item>
+        <item>GBP</item>
+
+        <item>SEK</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>JPY</item>
+
+    </string-array>
+
+
+
+</resources>
